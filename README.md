@@ -12,7 +12,7 @@
 
 ### About Me
 
-Quantitative Researcher with a background in Actuarial Science, Mathematical Statistics, and Finance. I build mid-frequency trading strategies, derivatives analytics, and automated research infrastructure. Currently at Ernst & Young (Financial Risk) and running systematic strategies at Superavit Investment Fund. Based in Buenos Aires.
+Quantitative Researcher with a background in Actuarial Science, Mathematical Statistics, and Finance. I build mid-frequency trading strategies, derivatives analytics, and automated research infrastructure at Superavit Investment Fund. Based in Buenos Aires.
 
 ---
 
